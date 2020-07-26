@@ -89,7 +89,7 @@ python3 bot.py
   - [CyberBoySumanjay](https://github.com/cyberboysumanjay)
   - [SpEcHiDe](https://github.com/SpEcHiDe)
   - [Atulkadian](https://github.com/atulkadian)
-  - [aryanvikash](https://github.com/justinthoms)
+  - [justin](https://github.com/justinthoms)
 
 
 
